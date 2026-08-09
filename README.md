@@ -1,115 +1,197 @@
 <div align="center">
-👋 Hi, I'm Pranay Shinde
-AI & Data Science | Data Engineering | Big Data | Cloud | Analytics
-![GitHub](https://img.shields.io/badge/GitHub-Pranayshinde95-181717?style=for-the-badge&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+# 👋 Hi, I'm Pranay Shinde
+
+### 🚀 AI & Data Science | Data Engineering | Big Data | Cloud | Analytics
+
+<p>
+<a href="https://github.com/Pranayshinde95">
+<img src="https://img.shields.io/badge/GitHub-Pranayshinde95-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/pranay-shinde-ps95">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:pranayshinde3724@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
 </div>
+
 ---
-💡 About Me
+
+# 💡 About Me
+
 🎓 B.E. Artificial Intelligence & Data Science — 2026
+
 🏫 Dr. D. Y. Patil College of Engineering and Innovation, Pune
+
 🎓 Savitribai Phule Pune University (SPPU)
-💼 Data Analyst Intern — Inditronics (3 Months)
+
+💼 Data Analyst Intern — Inditronics | 3 Months
+
 🏆 Team Leader at college
-🚀 Interested in Data Engineering, Big Data, Cloud, Analytics & Machine Learning
+
+🚀 Interested in Data Engineering, Big Data, Cloud, Analytics and Machine Learning
+
 🔧 Building practical projects around data pipelines, dashboards and data-driven solutions
+
 ---
-🛠️ Tech Stack
-👨‍💻 Programming & Data
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java">
+<img src="https://skillicons.dev/icons?i=python,java">
 </p>
+
+### 📊 Data Analysis
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
-☁️ Cloud
+
+### ☁️ Cloud & Data Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks">
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
-⚡ Big Data
+
+### ⚡ Big Data
+
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
 </p>
-🗄️ Databases
+
+### 🗄 Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL">
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb">
 </p>
-📊 Business Intelligence & Visualization
+
+### 📊 Business Intelligence & Visualization
+
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
-🤖 AI & Machine Learning
+
+### 🤖 AI & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
-🧰 Tools & Development
+
+### 🧰 Tools & Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker">
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code">
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML">
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,html,css">
 </p>
+
 ---
-🚀 Featured Projects
-🏭 Retail Supply Chain Data Pipeline
-Data Engineering
-🔗 View Repository
-📈 Sales Performance Business Analytics Dashboard
-Business Analytics · Power BI
-🔗 View Repository
-🔄 Customer Churn & Reactivation Analysis
-Customer Analytics · SQL
-🔗 View Repository
-🏦 Banking Credit Risk Analysis
-Risk Analytics · Data Analysis
-🔗 View Repository
-📊 Power BI Dashboard
-Power BI · Data Visualization
-🔗 View Repository
-👥 Customer Behaviour Analytics
-Data Analytics · Visualization
-🔗 View Repository
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏭 **Retail Supply Chain Data Pipeline** | Data engineering project focused on processing and transforming retail supply chain data |
+| 📈 **Sales Performance Business Analytics Dashboard** | Business analytics dashboard focused on sales performance and actionable insights |
+| 🔄 **Customer Churn & Reactivation Analysis** | Analytics project focused on identifying customer churn patterns and reactivation opportunities |
+| 🏦 **Banking Credit Risk Analysis** | Data analytics project exploring customer and credit-risk patterns |
+| 📊 **Power BI Dashboard** | Interactive dashboard work focused on business reporting and visualization |
+| 👥 **Customer Behaviour Analytics** | Analytics project focused on understanding customer behaviour and extracting useful patterns |
+
+### 🔗 Project Repositories
+
+- [Retail Supply Chain Data Pipeline](https://github.com/Pranayshinde95/retail-supply-chain-data-pipeline)
+- [Sales Performance Business Analytics Dashboard](https://github.com/Pranayshinde95/Sales-Performance-Business-Analytics-Dashboard)
+- [Customer Churn & Reactivation Analysis](https://github.com/Pranayshinde95/Customer-Churn-Reactivation-Analysis)
+- [Banking Credit Risk Analysis](https://github.com/Pranayshinde95/Banking-Credit-Risk-Analysis)
+- [Power BI Dashboard](https://github.com/Pranayshinde95/PowerBI-Dashboard)
+- [Customer Behaviour Analytics](https://github.com/Pranayshinde95/customer-behaviour-analytics)
+
 ---
-💼 Internship
-Data Analyst Intern — Inditronics
-Duration: 3 Months
-Practical exposure to data analysis, reporting, visualization and data-driven problem solving.
+
+# 💼 Internship Experience
+
+### 📊 Data Analyst Intern — Inditronics
+
+**Duration: 3 Months**
+
+Gained practical exposure to:
+
+- Data analysis
+- Reporting
+- Data visualization
+- Business insights
+- Data-driven problem solving
+
 ---
-🏆 Leadership
-Team Leader
-Dr. D. Y. Patil College of Engineering and Innovation
-Team coordination · Communication · Collaboration · Task execution
+
+# 🏆 Leadership
+
+### 👑 Team Leader
+
+**Dr. D. Y. Patil College of Engineering and Innovation**
+
+- Team coordination
+- Communication and collaboration
+- Task coordination
+- Team execution and responsibility
+
 ---
-📌 Currently Learning
+
+# 📚 Currently Learning
+
 <p>
-  <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/PySpark-Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Kafka-Learning-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
-  <img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/PySpark-Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-Learning-000000?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-Learning-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+
 ---
-📫 Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Shinde-0A66C2?style=for-the-badge&logo=linkedin)
-![Email](https://img.shields.io/badge/Gmail-pranayshinde3724%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Pranayshinde95-181717?style=for-the-badge&logo=github)
+
+# 🤝 Let's Connect
+
 <div align="center">
-⭐ Thanks for visiting my profile!
+
+<a href="https://www.linkedin.com/in/pranay-shinde-ps95">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:pranayshinde3724@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Pranayshinde95">
+<img src="https://img.shields.io/badge/GitHub-Pranayshinde95-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Favorite Quote
+
+> **"Turning data into insights and building solutions that create impact."**
+
+⭐ **Thanks for visiting my profile!**
+
 </div>
